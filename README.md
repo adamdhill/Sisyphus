@@ -1,6 +1,6 @@
 # Sisyphus
 
-Sisyphus is designed to help improve the quality of online discourse. Increasingly, it seems as though platform owners are forced to choose between two rather positions: (a) restricting broad categories of speech or (b) permitting a toxic environment to flourish.
+Sisyphus is designed to help improve the quality of online discourse. Increasingly, it seems as though platform owners are forced to choose between two rather positions: (a) restricting broad categories of speech or (b) permitting a toxic environment to flourish. Neither option is ideal. Platform owners, however, currently lack the ***
 
 Current approaches to 
 
