@@ -1,6 +1,8 @@
 # Sisyphus
 
-Sisyphus is designed to help improve the quality of online discourse. Current approaches to 
+Sisyphus is designed to help improve the quality of online discourse. Increasingly, it seems as though platform owners are forced to choose between two rather positions: (a) restricting broad categories of speech or (b) permitting a toxic environment to flourish.
+
+Current approaches to 
 
 applying pro-social nudges to variety of situations, as alternative to (a) restricting speech or (b) permitting toxic environment.
 
