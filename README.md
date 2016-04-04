@@ -4,4 +4,4 @@ Sisyphus is designed to help improve the quality of online discourse. Increasing
 
 Sisyphus offers a conceptual framework for thinking about online discourse as well as a technical implementation of that framework.
 
-Broadly, Sisyphus is applicable to environments where two conditions obtain: (1) users take *actions* and (2) actions are *costly*.
+Broadly, Sisyphus is applicable to environments where two conditions obtain: (1) users take *actions* and (2) actions are (or can be made) *costly*.
